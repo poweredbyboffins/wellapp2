@@ -1,0 +1,21 @@
+{
+textlist:[{'id':'exercise','text': 'Please indicate amount of exercise hours you have done this week','min':0,'max':100},
+
+           {'id':'sleep','text':'Please let us know how many hours sleep you have had this week','min':0,'max':100},
+
+           {'id':'mood', 'text':'Please rate your mood out of ten','min':1,'max':10},
+
+           {'id':'energy','text':'How have your energy levels been out of ten','min':1,'max':10},
+
+           {'id':'aches and pains','text':'please rate your aches and pains out of 10 , add 10 if you are really suffering','min':1,'max':10},
+
+           {'id':'work and study','text':'have you had a successul or stressul period of work','min':1,'max':10},
+
+           {'id':'anxiety','text': 'please rate your anxiety levels out of 10','min':1,'max':10},
+
+           {'id':'health','text':'please rate your overall physical health','min':1,'max':10},
+
+           {'id':'diet','text':'please indicate the quality of your diet ','min':1,'max':10}
+
+         ]
+}

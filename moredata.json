@@ -1,0 +1,13 @@
+{listvalue: [
+
+           {'name': 'mood', 'id': 'blueviolet','group':'Mind'},
+
+           {'name': 'energy', 'id':'red','group':'Physical'},
+
+           {'name': 'aches and pains', 'id':'orange','group':'Physical'},
+
+           {'name': 'work and study', 'id':'cadetblue','group':'Physical'},
+
+
+        ]
+}

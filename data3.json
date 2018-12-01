@@ -1,0 +1,13 @@
+{listvalue: [
+
+           {'group':physical,'id': 'orange'},
+
+           {'group': 'Mind', 'id': 'cadetblue'},
+
+           {'group': 'Work', 'id': 'blueviolet'},
+
+           {'group': 'Social', 'id':'red'},
+
+
+        ]
+}
